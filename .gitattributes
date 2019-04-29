@@ -7,4 +7,4 @@ README.md export-ignore
 /css export-ignore
 /js export-ignore
 /examples export-ignore
-/Puc/v4p4/DebugBar export-ignore
+/Puc/*/DebugBar export-ignore
